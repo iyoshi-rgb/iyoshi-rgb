@@ -1,6 +1,7 @@
-# 👋
-<br>
-Laungage Typescript,Ruby
-<br>
-Fremwork React,Next,Rails
+## 👋
+
+### Skiles
+**Laungage** Typescript, Ruby
+
+**Fremwork** React, Next, Rails
 
