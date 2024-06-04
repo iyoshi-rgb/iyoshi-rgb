@@ -1,6 +1,6 @@
-## 👋
+## Hi, 👋
 
-### Skiles
+### Skills
 **Laungage** Typescript, Ruby
 
 **Fremwork** React, Next, Rails
