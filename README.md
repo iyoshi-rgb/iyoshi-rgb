@@ -1,5 +1,6 @@
-- 👋
-- Laungage Typescript,Ruby
+# 👋
 <br>
-- Fremwork React,Next,Rails
+Laungage Typescript,Ruby
+<br>
+Fremwork React,Next,Rails
 
