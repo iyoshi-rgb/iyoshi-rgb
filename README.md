@@ -1,4 +1,4 @@
-## Hi, 👋
+## Hi 👋
 
 ### Skills
 **Language**  Typescript, Ruby
