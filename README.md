@@ -1,4 +1,4 @@
- Hi　👋
-Laungage Typescript,Ruby
-Fremwork React,Next,Rails
+- Hi　👋
+- Laungage Typescript,Ruby
+- Fremwork React,Next,Rails
 
