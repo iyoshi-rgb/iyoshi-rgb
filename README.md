@@ -1,7 +1,7 @@
 ## Hi, 👋
 
 ### Skills
-**Laungage** Typescript, Ruby
+**Laungage**  Typescript, Ruby
 
-**Fremwork** React, Next, Rails
+**Fremwork**  React, Next, Rails
 
